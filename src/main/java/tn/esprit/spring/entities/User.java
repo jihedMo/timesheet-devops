@@ -26,7 +26,7 @@ public class User implements Serializable {
 	private Long id;   
 	//test github
 	private String firstName; 
-	
+	//test branch
 	private String lastName;
 	
 	@Temporal(TemporalType.DATE)
